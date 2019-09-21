@@ -1,0 +1,9 @@
+Why do you think jQuery is so popular?
+
+You've had a chance to try it out. Why do so many developers use jQuery?
+
+Answers:
+
+Fast Selection.
+Cross-Browser Compatibility.
+Easy DOM Manipulation.

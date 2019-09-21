@@ -1,0 +1,7 @@
+What is jQuery 
+Open up the JavaScript console on udacity.com. Type 'jQery' and press enter.
+What shows up?
+
+Answers:
+A function.
+An object.

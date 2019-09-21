@@ -1,0 +1,18 @@
+Which of the following are real mouse events?
+
+Answer:
+
+Mouseout.
+Mouseover.
+Mouse_move.
+
+Fill in the blanks in the correct order.
+
+$(The target element being listen to).on(The type of event being listened for, A function with the stuff we want to do).
+
+
+Which of the following is not correct?
+
+Answer:
+
+target.hover(...)    -> target.on('hover',function(){...});
